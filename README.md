@@ -1,5 +1,5 @@
 # hello-skip
-VanHack Coding Chalenge for SkipTheDishes.
+VanHack Coding Chalenge for SkipTheDishes (<3).
 
 ## The Project
 This is a pipeline for a simple node app.
