@@ -1,8 +1,10 @@
 {
-  "name": "hello-skip",
+  "name": "grazielegs-hello-skip",
   "version": "1.0.0",
+  "description": "VanHackathon",
   "main": "main.js",
   "scripts": {
+    "test": "node test.js",
     "start": "node main.js"
   },
   "repository": {
@@ -15,4 +17,7 @@
     "dockerfile"
   ],
   "author": "graziwho@gmail.com",
+  "license": "ISC",
+  "devDependencies": { "test": ">=0.6.0" }
 }
+
